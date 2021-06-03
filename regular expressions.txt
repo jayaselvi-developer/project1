@@ -1,0 +1,40 @@
+regular expressions:
+
+
+  name ----> var regname=/^[a-zA-Z .]{1,50}$/;
+
+            if((regname.test(name))
+
+  age  ----> var regAge=/^[1-9]?[0-9]{1}$|^100$/;
+ 
+             if(regAge.test(age)
+
+
+
+
+
+ study all the topics in react js cheat sheet   ------------->important
+
+   Topics that has to be covered today:
+  
+ - data retrieval from an url 
+ - flux architecture
+ - redux architecture
+ - task (praveen)
+ - how to enter data in the form.(text, dropdown, file upload, image , url,)
+ - how to rerieve data from the list (url) and how to bind it in the table.
+ - how to update the data and delete the data.
+ -  npm plugins
+      - search
+      - autosuggest
+      - pagination
+      - etc.
+
+-  object methods , built-in methods of objects like Array, String, etc.
+
+
+
+
+
+ - react router
+ - HOOKS
